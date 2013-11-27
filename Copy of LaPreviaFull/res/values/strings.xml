@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, LaPreviaActivity!</string>
+    <string name="app_name">LaPrevia</string>
+    <string name="amount">Monto</string>
+    <string name="name">Nombre</string>
+    <string name="add">Agregar</string>
+    <string name="calculate">Resultado</string>
+    <string name="clean">Limpiar</string>
+    <string name="back">Volver</string>
+    <string name="insertName">Ingrese un nombre</string>
+    <string name="insertAmount">Ingrese un monto</string>
+    <string name="insertPeople">Ingrese al menos una persona y su monto</string>
+    <string name="ok">Aceptar</string>
+    <string name="yes">Aceptar</string>
+    <string name="no">No</string>
+    <string name="XPaysToY" formatted="false">%s paga %s%.2f a %s</string>
+    <string name="average" formatted="false">Monto por persona %s%.2f</string>
+    <string name="remove" formatted="false">¿Borrar %s?</string>
+    <string name="send">Enviar</string>
+    <string name="invalidData">Datos inválidos</string>
+
+</resources>
